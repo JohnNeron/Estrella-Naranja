@@ -97,7 +97,11 @@ public class WebController {
 		} else {
 			u.setPassword(encoder.encode(u.getPassword()));
 			repoU.save(u);
-			return "confirmacion";
+			if(auth == null) {
+				return "confirmacionB";
+				} else {
+					return "confirmacion";
+				}
 		}
 	}
 	
