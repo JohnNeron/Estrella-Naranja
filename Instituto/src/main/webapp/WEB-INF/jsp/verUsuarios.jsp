@@ -57,7 +57,7 @@
 			</c:forEach>	
 	   	 </table>
 	  </div>
-	  <form action="/agregarEstudiante" method="GET">
+	  <form action="/registrar" method="GET">
 				<input type="submit" class="submit button3" value="Agregar Nuevo Usuario">
 		 </form>
 	</section>
