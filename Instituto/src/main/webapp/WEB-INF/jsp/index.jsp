@@ -36,7 +36,7 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="css/estilo.css" />
-    <title>Los Eren</title>
+    <title>Estrella Naranja</title>
   </head>
   <body style="background-color: rgb(255, 255, 255);">
   	<h1 style="text-align: center;"><b>Bienvenido</b></h1>
